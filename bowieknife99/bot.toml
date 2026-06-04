@@ -1,0 +1,29 @@
+#:schema https://rlbot.org/schemas/agent.json
+[settings]
+name = "Bowie Knife 99"
+loadout_file = "loadout.toml"
+root_dir = ""
+run_command = "..\\venv\\Scripts\\python bot.py"
+# run_command = "python bot.py"
+run_command_linux = "../venv/bin/python bot.py"
+agent_id = "martico2432/bowieknife99"
+logo_file = ""
+
+
+[details]
+description = """
+He is a nice, friendly bot.
+Really likes something called "bump".
+"""
+# Fun fact about the bot
+fun_fact = "Inspired from Forza Horizon 6"
+# Link to your repository
+source_link = "https://github.com/RLBot/python-example"
+# Name of the bot's creator/developer
+developer = "Martico2432"
+# Programming language
+language = "Python"
+# ALL POSSIBLE TAGS: 1v1, teamplay, goalie, hoops, dropshot, snow-day, rumble, spike-rush, heatseeker, memebot
+# NOTE: Only add the goalie tag if your bot only plays as a goalie; this directly contrasts with the teamplay tag!
+# NOTE: Only add a tag for a special game mode if you bot properly supports it
+tags = ["memebot"]
