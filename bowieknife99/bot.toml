@@ -7,7 +7,7 @@ run_command = "..\\venv\\Scripts\\python bot.py"
 # run_command = "python bot.py"
 run_command_linux = "../venv/bin/python bot.py"
 agent_id = "martico2432/bowieknife99"
-logo_file = ""
+logo_file = "logo.png"
 
 
 [details]
