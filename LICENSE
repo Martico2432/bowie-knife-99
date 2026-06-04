@@ -1,0 +1,130 @@
+Custom RLBot Bot License v1.0
+Copyright (c) 2026 Martico2432
+
+Permission is granted to use, copy, modify, and distribute this Software
+subject to ALL of the following conditions:
+
+1. Redistribution of this Software, in original or modified form, must
+   include this license text in full, without
+   removing or altering any license terms.
+
+2. RLBot bot pack maintainers and official RLBot distribution systems are
+   explicitly permitted to include and distribute this Software.
+
+3. This Software may only be used for personal, educational, research, and
+   non-commercial purposes, provided that "personal use" shall not include
+   any session connected to official matchmaking, ranked queues, casual
+   queues, or any online mode where rank, MMR, or account standing may be
+   affected, except as explicitly permitted under Clause 8.
+
+4. Free public hosting of this Software is permitted solely for the purposes
+   described in Clause 8, provided that:
+   - access to the hosted Software is free of charge;
+   - no payment, subscription, or purchase is required to play against or
+     interact with the Software;
+   - voluntary donations, sponsorships, or community support that do not
+     restrict access or create gameplay advantages are permitted;
+   - no restriction in this license is violated.
+
+5. Commercial use is strictly prohibited without prior written permission from
+   the copyright holder. Commercial use includes, without limitation:
+   - selling or licensing the Software or any derivative;
+   - paid redistribution in any form;
+   - bundling into paid products, services, or subscriptions;
+   - monetized hosting, access-as-a-service, or pay-per-use environments;
+   - any use that generates revenue, directly or indirectly.
+
+6. PROHIBITED AUTOMATED GAMEPLAY. This Software may not be used, deployed,
+   or integrated - in original or modified form - to:
+   a) play in any official, ranked, unranked, casual, or competitive online
+      match on any game platform, or participate in any tournament, event, or competition
+      involving human players, whether official or unofficial, except where
+      explicitly permitted under Clause 8;
+   b) obtain, preserve, or manipulate competitive rank, MMR, season rewards,
+      titles, or any progression metric on any account;
+   c) substitute for a human player in any matchmade or player-versus-player
+      environment, regardless of intent or awareness of other participants;
+   d) automate gameplay actions (movement, boost, shooting, saving, etc.)
+      in any live online session where the opposing or allied players are
+      human or believe they are playing against/with humans;
+   e) operate as a cheat, aimbot, macro, script, or any prohibited automation
+      tool under any game platform's Terms of Service or acceptable use policy;
+   f) circumvent bans, restrictions, or account penalties on any platform;
+   g) run on accounts not solely owned and operated by the licensee for
+      sanctioned offline or bot-only use;
+   h) assist, augment, or supplement a human player's gameplay in any online
+      session by automating, suggesting, or executing any game action - including
+      but not limited to movement, positioning, boost usage - regardless of whether the
+      human player retains final input control;
+   i) deploy this Software in any context prohibited under Clause 6 for the stated or
+      unstated purpose of testing, development, research, or debugging. Testing and
+      development must be conducted exclusively in offline or sanctioned environments as
+      described in Clause 8. The act of testing or researching does not override or
+      suspend any prohibition in this license.
+   j) deploy any model, agent, or bot derived from or trained using this
+      Software - in whole or in part - in any context prohibited by this
+      clause, regardless of how many training steps, architectural changes,
+      or modifications separate the derivative from this Software.
+
+7. Modified versions distributed to others must prominently include a clear,
+   human-readable notice of modification, including a reasonable summary of
+   modifications and the date of modification.
+
+8. PERMITTED AUTOMATED PLAY. Notwithstanding Clause 6, the following uses
+   are explicitly permitted:
+   a) Hosting this Software as a bot participant in isolated sessions
+      where all human participants are explicitly aware they are playing
+      alongside or against one or more bots, provided:
+      - no human player is deceived into believing they are playing against
+        another human;
+      - the session is not connected to any official ranked or matchmaking
+        system;
+      - the hosting is free and non-commercial per Clause 5.
+   b) Offline play against the bot with no online account involvement.
+   c) Sanctioned RLBot tournaments or exhibitions where all participants
+      are aware they are playing against a bot.
+
+9. TRAINING AND MODEL RESTRICTIONS. This Software, including any neural
+   network weights, model checkpoints, behavioral data, or inference logic
+   distributed with it, may not be used as:
+   a) a base for further reinforcement learning, behavioral cloning,
+      imitation learning, transfer learning, fine-tuning, or any other
+      training process with the intent or result of producing a model
+      deployed in any context prohibited under Clause 6;
+   b) a data source or demonstration provider for training any other model
+      or agent intended for deployment in any context prohibited under
+      Clause 6.
+   Training for personal research, development, or contribution back to the
+   RLBot community is permitted, provided the resulting model is not deployed
+   in any prohibited context under Clause 6. The burden of ensuring compliant
+   deployment lies solely with the licensee.
+
+10. ANTI-CIRCUMVENTION. Any technical, architectural, or operational measure
+    designed to disguise, obscure, or indirectly achieve what is prohibited
+    under Clauses 5 and 6 constitutes a violation of this license. This
+    includes but is not limited to: wrapping the Software in a service layer,
+    renaming or repackaging it, or using it as a component of a larger system
+    that achieves a prohibited outcome.
+
+11. LICENSE CONDITIONS. The rights granted under this license are expressly
+    conditioned upon compliance with all terms herein. Any violation of
+    Clauses 5, 6, 9, or 10 automatically and immediately terminates all
+    rights granted by this license without notice. Such termination does not
+    require action by the copyright holder.
+
+12. This Software is provided "AS IS", without warranty of any kind, express
+    or implied, including but not limited to warranties of merchantability,
+    fitness for a particular purpose, title, and non-infringement. The entire
+    risk as to quality and performance is with the user.
+
+13. IN NO EVENT shall the authors or copyright holders be liable for any
+    claim, damages, or other liability, whether in contract, tort, or
+    otherwise, arising from, out of, or in connection with the Software or
+    the use or other dealings in the Software.
+
+14. This Software, including all modified versions, may not be sublicensed,
+    relicensed, or redistributed under terms that remove, weaken, or conflict
+    with any restriction in this license.
+
+
+SPDX-License-Identifier: Custom-RLBot-Bot-v1.0
